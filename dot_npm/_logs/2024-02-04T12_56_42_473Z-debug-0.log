@@ -1,0 +1,68 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.2.4
+2 info using node@v21.6.1
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 2ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 3ms
+10 timing config:load:file:/Users/jeff/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 0ms
+14 timing config:load:setEnvs Completed in 1ms
+15 timing config:load Completed in 12ms
+16 timing npm:load:configload Completed in 12ms
+17 timing config:load:flatten Completed in 3ms
+18 timing npm:load:mkdirpcache Completed in 1ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm install sass-migrator
+21 verbose argv "install" "--global" "sass-migrator"
+22 timing npm:load:setTitle Completed in 22ms
+23 timing npm:load:display Completed in 1ms
+24 verbose logfile logs-max:10 dir:/Users/jeff/.npm/_logs/2024-02-04T12_56_42_473Z-
+25 verbose logfile /Users/jeff/.npm/_logs/2024-02-04T12_56_42_473Z-debug-0.log
+26 timing npm:load:logFile Completed in 9ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 65ms
+30 timing config:load:flatten Completed in 1ms
+31 timing arborist:ctor Completed in 1ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 5ms
+34 timing idealTree:userRequests Completed in 3ms
+35 silly idealTree buildDeps
+36 silly fetch manifest sass-migrator@*
+37 http fetch GET 200 https://registry.npmjs.org/sass-migrator 16ms (cache hit)
+38 silly placeDep ROOT sass-migrator@2.0.2 OK for:  want: *
+39 timing idealTree:#root Completed in 25ms
+40 timing idealTree:node_modules/sass-migrator Completed in 0ms
+41 timing idealTree:buildDeps Completed in 26ms
+42 timing idealTree:fixDepFlags Completed in 0ms
+43 timing idealTree Completed in 38ms
+44 timing reify:loadTrees Completed in 47ms
+45 timing reify:diffTrees Completed in 1ms
+46 silly reify moves {}
+47 timing reify:retireShallow Completed in 1ms
+48 timing reify:createSparse Completed in 1ms
+49 timing reify:loadBundles Completed in 0ms
+50 silly tarball no local data for sass-migrator@https://registry.npmjs.org/sass-migrator/-/sass-migrator-2.0.2.tgz. Extracting by manifest.
+51 http fetch GET 200 https://registry.npmjs.org/sass-migrator/-/sass-migrator-2.0.2.tgz 1913ms (cache miss)
+52 timing reifyNode:node_modules/sass-migrator Completed in 1921ms
+53 timing reify:unpack Completed in 1922ms
+54 timing reify:unretire Completed in 0ms
+55 timing build:queue Completed in 3ms
+56 timing build:link:node_modules/sass-migrator Completed in 3ms
+57 timing build:link Completed in 3ms
+58 timing build:deps Completed in 7ms
+59 timing build Completed in 7ms
+60 timing reify:build Completed in 8ms
+61 timing reify:trash Completed in 0ms
+62 timing reify Completed in 2003ms
+63 silly ADD node_modules/sass-migrator
+64 timing command:install Completed in 2014ms
+65 verbose exit 0
+66 timing npm Completed in 2256ms
+67 info ok

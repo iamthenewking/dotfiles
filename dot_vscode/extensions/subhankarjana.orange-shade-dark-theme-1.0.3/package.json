@@ -1,0 +1,41 @@
+{
+	"name": "orange-shade-dark-theme",
+	"displayName": "Orange Shade Dark Theme",
+	"description": "This shade is is basically based on color code #ff6600. I think the contrast of the foreground will help us to identify everything.",
+	"version": "1.0.3",
+	"publisher": "SubhankarJana",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#FF6600",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bamasure6521/orange-shade-dark-theme.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Orange Shade Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Orange Shade Dark Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1cc112c9-ecf0-4f31-9d36-b9891bf25338",
+		"publisherId": "42139068-e9df-4551-9df6-93e52f189823",
+		"publisherDisplayName": "Subhankar Jana",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1706992476270
+	}
+}

@@ -1,0 +1,17 @@
+current directory: /Users/jeff/.rubies/ruby-3.1.3/lib/ruby/gems/3.1.0/gems/debug-1.6.3/ext/debug
+/Users/jeff/.rubies/ruby-3.1.3/bin/ruby -I /Users/jeff/src/ruby-3.1.3/lib extconf.rb
+creating Makefile
+
+current directory: /Users/jeff/.rubies/ruby-3.1.3/lib/ruby/gems/3.1.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240204-19551-iadmdk sitelibdir\=./.gem.20240204-19551-iadmdk clean
+
+current directory: /Users/jeff/.rubies/ruby-3.1.3/lib/ruby/gems/3.1.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240204-19551-iadmdk sitelibdir\=./.gem.20240204-19551-iadmdk
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/jeff/.rubies/ruby-3.1.3/lib/ruby/gems/3.1.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240204-19551-iadmdk sitelibdir\=./.gem.20240204-19551-iadmdk install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20240204-19551-iadmdk/debug

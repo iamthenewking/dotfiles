@@ -1,0 +1,18 @@
+'Log files:
+/Users/jeff/.npm/_logs/2024-02-03T21_24_41_595Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: dot-com@0.0.1
+Found: @typescript-eslint/parser@undefined
+node_modules/@typescript-eslint/parser
+  @typescript-eslint/parser@"^6.13.2" from the root project
+
+Could not resolve dependency:
+peer @typescript-eslint/parser@"^6.0.0 || ^6.0.0-alpha" from @typescript-eslint/eslint-plugin@6.20.0
+node_modules/@typescript-eslint/eslint-plugin
+  @typescript-eslint/eslint-plugin@"^6.13.2" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

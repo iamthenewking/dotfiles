@@ -1,0 +1,420 @@
+: 1706832037:0;ls
+: 1706832037:0;ls
+: 1706832037:0;ls
+: 1706832037:0;cd Desktop
+: 1706832037:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1706831642:0;ls -a
+: 1706831761:0;nano ~/.zshrc
+: 1706832037:0;ls -a
+: 1706832037:0;sudo
+: 1706832037:0;/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+: 1706832037:0;brew git install
+: 1706832037:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1706831885:0;ls -a\\
+
+: 1706831888:0;ls -a
+: 1706831900:0;ls
+: 1706831997:0;ls -a\\
+
+: 1706832002:0;ls 
+: 1706832031:0;git -v
+: 1706832035:0;clear
+: 1706832037:0;exit
+: 1706832210:0;git -a
+: 1706832216:0;git -v
+: 1706832328:0;ls -a
+: 1706832365:0;ls
+: 1706832437:0;git -v
+: 1706832554:0;git add .
+: 1706832556:0;ls
+: 1706832561:0;clear
+: 1706832563:0;cd dev
+: 1706832566:0;ls
+: 1706832606:0;/Users/jeff/Desktop/JNA/Feb\ 1/report.rtf 
+: 1706832620:0;/Users/jeff/Desktop/Dev 
+: 1706832625:0;cd /Users/jeff/Desktop/Dev 
+: 1706832627:0;ls
+: 1706841251:0;git -v
+: 1706841382:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+: 1706841404:0;nano .zshrc
+: 1706841493:0;ls
+: 1706841517:0;nano .zshrc
+: 1706841544:0;ls
+: 1706841547:0;exit
+: 1706841655:0;
+: 1706841659:0;git -v
+: 1706841675:0;cleaaar
+: 1706841677:0;clear
+: 1706841679:0;ls -a
+: 1706841690:0;ls
+: 1706841701:0;cd Desktop/dev
+: 1706841702:0;ls
+: 1706841754:0;ls -a
+: 1706841760:0;clear
+: 1706841763:0;exit
+: 1706856881:0;clear
+: 1706856884:0;ls -
+: 1706856886:0;ls
+: 1706856893:0;cd Desktop/dev
+: 1706856896:0;ls -
+: 1706856902:0;ls -a
+: 1706856913:0;git -v
+: 1706856934:0;exit
+: 1706876166:0;ls
+: 1706876258:0;p10k configure
+: 1706876399:0;ls
+: 1706876493:0;cd Desktop/deev
+: 1706876498:0;cd Desktop/dev
+: 1706876504:0;ls -a
+: 1706876511:0;clear
+: 1706876514:0;git -c
+: 1706876520:0;git -v
+: 1706876526:0;clear
+: 1706876529:0;exit
+: 1706876548:0;ls
+: 1706915889:0;ls -a
+: 1706915900:0;ls
+: 1706915909:0;cd Desktop/dev
+: 1706915911:0;ls
+: 1706915946:0;ls -
+: 1706931342:0;ls -a
+: 1706931345:0;ls
+: 1706931352:0;cd Desktop/dev
+: 1706931356:0;ls
+: 1706932458:0;p10k configure
+: 1706932579:0;ls
+: 1706932584:0;cdd ..
+: 1706932593:0;ls
+: 1706932600:0;exit
+: 1706991663:0;clear
+: 1706991896:0;code .
+: 1706992167:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1706992196:0;nano .zshrc
+: 1706992324:0;exec zsh
+: 1706992337:0;cd Desktop/dev
+: 1706992343:0;cdd ..
+: 1706992780:0;code .zshrc
+: 1706992954:0;ls
+: 1706992970:0;code .zshrc
+: 1706993599:0;nano .zshrc
+: 1706993611:0;exit
+: 1706993938:0;pwd
+: 1706993940:0;cd
+: 1706993944:0;pwd
+: 1706993947:0;ls
+: 1706994321:0;brew -v
+: 1706994683:0;source .zshrc
+: 1706994970:0;ls
+: 1706994975:0;cd Desktop/dev
+: 1706995076:0;git clone https://github.com/iamthenewking/joshuakgoldberg-dot-com.git
+: 1706995129:0;cd joshuakgoldberg-dot-com
+: 1706995131:0;ls
+: 1706995138:0;code 
+: 1706995148:0;_code .
+: 1706995154:0;ls
+: 1706995178:0;cd Desktop/dev
+: 1706995187:0;cd joshuakgoldberg-dot-com
+: 1706995190:0;code .
+: 1706995205:0;code
+: 1706995216:0;_code .
+: 1706995265:0;pp i
+: 1706995348:0;node -v
+: 1706995354:0;npm -
+: 1706995358:0;npm -v
+: 1706995369:0;nm install
+: 1706995385:0;ls
+: 1706995449:0;npm install -g pnpm
+: 1706995465:0;sudo npm install -g pnpm
+: 1706995481:0;npm i
+: 1706995598:0;pnpm i
+: 1706995613:0;brew install pnpm
+: 1706995644:0;pnpm i
+: 1706995742:0;pnpm list
+: 1706995748:0;pwd
+: 1706995751:0;clear
+: 1707000013:0;ls -a
+: 1707000014:0;ls
+: 1707000017:0;ls -a
+: 1707000027:0;ls
+: 1707000030:0;ls -a
+: 1707000032:0;cd
+: 1707000034:0;pwd
+: 1707000038:0;exit
+: 1707000068:0;ls -a
+: 1707000080:0;xit
+: 1707000082:0;exit
+: 1707000130:0;ls -a
+: 1707000140:0;xit
+: 1707000143:0;exit
+: 1707000678:0;pwd
+: 1707000687:0;ls -a
+: 1707000762:0;ls .zshrc
+: 1707000769:0;pwd
+: 1707000778:0;cd zshrc
+: 1707000782:0;cd .zshrc
+: 1707000790:0;clear
+: 1707000810:0;stow
+: 1707000895:0;code .zshrc
+: 1707000904:0;code . .zshrc
+: 1707000955:0;code .
+: 1707001051:0;code .zshrc
+: 1707001890:0;exit
+: 1707038533:0;ls
+: 1707038540:0;ks -a
+: 1707038544:0;ls -a
+: 1707038564:0;code .
+: 1707038593:0;cd Desktop/dev
+: 1707038594:0;ls
+: 1707038600:0;cd wallpaper
+: 1707038602:0;code .
+: 1707038700:0;pwd
+: 1707038702:0;cd
+: 1707038704:0;pwd
+: 1707038708:0;clear
+: 1707038711:0;exit
+: 1707047885:0;ls -a
+: 1707047892:0;ls
+: 1707047895:0;ls -a
+: 1707047903:0;clear
+: 1707047917:0;cd
+: 1707047919:0;ls
+: 1707047921:0;pwd
+: 1707047926:0;cd Desktop/dev
+: 1707047928:0;ls
+: 1707047935:0;git -v
+: 1707048094:0;ls /usr/local
+: 1707048120:0;brew update && brew doctor
+: 1707048147:0;brew lnk
+: 1707048153:0;brew link
+: 1707048178:0;brew link pnpm
+: 1707048200:0;brew link --overwrite pnpm
+: 1707048209:0;uname -m
+: 1707048242:0;ruby -v
+: 1707048275:0;gem list
+: 1707048282:0;gem install jekyll
+: 1707048438:0;gem -v
+: 1707048443:0;gcc -v
+: 1707048453:0;make -v
+: 1707048464:0;sudo gem install jekyll
+: 1707048509:0;pwd
+: 1707048527:0;gem install bundler jekyll
+: 1707048583:0;gem install rouge -v 3.30.0
+: 1707048627:0;sudo gem install rouge -v 3.30.0
+: 1707048639:0;sudo gem install bundler jekyll
+: 1707048721:0;clear
+: 1707048724:0;jekyll -v
+: 1707048763:0;bundle exec jekyll
+: 1707048782:0;export GEM_PATH="$HOME/.gem/ruby/2.6.0/bin"\
+export PATH="$GEM_PATH:$PATH"
+: 1707048785:0;bundle exec jekyll
+: 1707048789:0;jekyll -v
+: 1707048801:0;which jekyll
+: 1707048807:0;sudo $ gem install --user-install jekyll
+: 1707048815:0;sudo gem install --user-install jekyll
+: 1707048916:0;which jekyll
+: 1707048956:0;gem install jekyll --user-install
+: 1707049021:0;cleat
+: 1707049033:0;clear
+: 1707049096:0;jekyll -v
+: 1707049117:0;which ruby
+: 1707049121:0;brew install ruby
+: 1707049248:0;echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
+: 1707049263:0;export LDFLAGS="-L/usr/local/opt/ruby/lib"
+: 1707049275:0;export CPPFLAGS="-I/usr/local/opt/ruby/include"
+: 1707049278:0;jekyll -v
+: 1707049284:0;gem install jekyll
+: 1707049330:0;sudo gem install jekyll
+: 1707049362:0;gem list
+: 1707049406:0;jekyll -v
+: 1707049487:0;make -v
+: 1707049495:0;gem list
+: 1707049587:0;g++ -v
+: 1707049626:0;brew install chruby ruby-install xz
+: 1707049711:0;source /usr/local/opt/chruby/share/chruby/chruby.sh
+: 1707049725:0;source /usr/local/opt/chruby/share/chruby/auto.sh
+: 1707049730:0;ruby -v
+: 1707049778:0;ruby-install ruby 3.1.3
+: 1707050352:0;echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+: 1707050368:0;echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+: 1707050385:0;echo "chruby ruby-3.1.3" >> ~/.zshrc
+: 1707050389:0;exit
+: 1707050397:0;ruby -v
+: 1707050408:0;gem install jekyll
+: 1707050499:0;jekyll -v
+: 1707050504:0;pwd
+: 1707050507:0;cd Desktop/dev
+: 1707050521:0;jekyll new jekyll-blog
+: 1707050542:0;cd jekyll-blog
+: 1707050555:0;jekyll serve
+: 1707050595:0;code .
+: 1707050773:0;cd
+: 1707050776:0;ls
+: 1707050781:0;ls -
+: 1707050788:0;ls -a
+: 1707050806:0;code zshrc
+: 1707050814:0;code . zshrc
+: 1707050819:0;code .zshrc
+: 1707050836:0;nano .zshrc
+: 1707050867:0;pwd
+: 1707050872:0;ls -a
+: 1707050886:0;nano .zshrc
+: 1707050956:0;code 
+: 1707050972:0;source ~/.zshrc
+: 1707050992:0;code .
+: 1707051011:0;ls
+: 1707051016:0;clear
+: 1707051018:0;pwd
+: 1707051024:0;cd Desktop/dev
+: 1707051027:0;cd jekyll-blog
+: 1707051030:0;code .
+: 1707051099:0;jekyll serve
+: 1707051371:0;npm install -g sass-migrator
+: 1707051398:0;sudo npm install -g sass-migrator
+: 1707051408:0;sass-migrator division **/*.scss
+: 1707051457:0;exit
+: 1707051463:0;sass-migrator division **/*.scss
+: 1707051483:0;cd Desktop/dev
+: 1707051488:0;cd jekyll-blog
+: 1707051491:0;sass-migrator division **/*.scss
+: 1707051530:0;jekyll serve
+: 1707051776:0;open $(bundle info --path minima)
+: 1707051837:0;code . $(bundle info --path minima)
+: 1707052021:0;exit
+: 1707084758:0;python -v
+: 1707085505:0;python3 -v
+: 1707085566:0;python3 GoogleIndexing.py
+: 1707085724:0;pip install --upgrade google-auth
+: 1707085768:0;python --version
+: 1707085853:0;exit
+: 1707085861:0;python --version
+: 1707085933:0;brew install pyenv
+: 1707085962:0;pyenv install --list
+: 1707085977:0;pyenv install 2.7.18
+: 1707086203:0;pyenv versionsxit
+: 1707086205:0;exit
+: 1707086225:0;pyenv version
+: 1707086235:0;pyenv global 2.7.18
+: 1707086267:0;eval "$(pyenv init --path)" ~/.zshrc
+: 1707086285:0;source ~/.zshrc
+: 1707086298:0;python --version
+: 1707086302:0;ls
+: 1707086306:0;cd Desktop/dev
+: 1707086308:0;ls
+: 1707086312:0;cd indexing
+: 1707086329:0;python GoogleIndexing.py
+: 1707086343:0;pip install --upgrade google-auth
+: 1707086358:0;python GoogleIndexing.py
+: 1707086433:0;exit
+: 1707086440:0;python GoogleIndexing.py
+: 1707086636:0;pip install httplib2
+: 1707086649:0;pip install json
+: 1707086666:0;pip install --upgrade pip
+: 1707086682:0;pip install json
+: 1707086838:0;python GoogleIndexing.py
+: 1707086888:0;pip install pandas
+: 1707086922:0;python GoogleIndexing.py
+: 1707124849:0;ls 0-a
+: 1707124852:0;ls -a
+: 1707124858:0;cd Desktop/dev
+: 1707124969:0;cd
+: 1707124971:0;pwd
+: 1707124973:0;ls
+: 1707124981:0;cd Desktop/dev
+: 1707124986:0;LS
+: 1707124994:0;cd jekyll-blog
+: 1707124996:0;jekyll serve
+: 1707125103:0;cd ..
+: 1707125104:0;ls
+: 1707125224:0;git clone https://github.com/bundle-deals/bundle-deals.github.io.git bundle
+: 1707125233:0;cd bundle
+: 1707125239:0;jekyll serve
+: 1707125245:0;bundle install
+: 1707125372:0;jekyll serve
+: 1707125386:0;bundle exec jekyll serve
+: 1707125462:0;pwd
+: 1707125469:0;code .zshrc
+: 1707125592:0;source ~/.zshrc
+: 1707125599:0;code .zshrc
+: 1707125654:0;jsxit
+: 1707125657:0;exit
+: 1707125663:0;ls
+: 1707125666:0;cd Desktop/dev
+: 1707125677:0;ls
+: 1707125681:0;cd bundle
+: 1707125682:0;js
+: 1707125744:0;git add .
+: 1707125760:0;githelp
+: 1707125764:0;git help
+: 1707125777:0;git status
+: 1707125788:0;git remote -v
+: 1707125799:0;git push
+: 1707126222:0;git config --global user.name "iamthenewking"
+: 1707126242:0;git config --global user.email "mrgabonijeff@gmail.com"
+: 1707126252:0;git config -l
+: 1707126347:0;git push
+: 1707126690:0;brew install gh
+: 1707126714:0;gh auth login
+: 1707126753:0;git push
+: 1707126756:0;ls
+: 1707126763:0;cd Desktop/dev
+: 1707126765:0;cd bundle
+: 1707126770:0;git push
+: 1707126781:0;git pull
+: 1707126788:0;git fetch
+: 1707126794:0;git add .
+: 1707126807:0;git commit -m "yoooooo"
+: 1707126811:0;git push
+: 1707126893:0;ls
+: 1707126896:0;cd Desktop/dev
+: 1707126898:0;cd b
+: 1707126906:0;cd bundle
+: 1707126908:0;js
+: 1707126923:0;exit
+: 1707128085:0;gh
+: 1707128157:0;git org
+: 1707128176:0;cd Desktop/dev
+: 1707128179:0;cd bundle
+: 1707128188:0;git remote -v
+: 1707128194:0;git fetch
+: 1707128200:0;git add .
+: 1707128205:0;git commit -m "yoooooo"
+: 1707128209:0;git push
+: 1707128279:0;git push origin
+: 1707128401:0;git remote remove
+: 1707128424:0;git remote remove origin
+: 1707128440:0;git remote -v
+: 1707128459:0;js
+: 1707128535:0;clear
+: 1707128538:0;exit
+: 1707128713:0;ls
+: 1707128715:0;pwd
+: 1707128719:0;clear
+: 1707128779:0;exit
+: 1707154290:0;pwd
+: 1707154293:0;cd Desktop/dev
+: 1707154295:0;cd bundle
+: 1707154297:0;js
+: 1707154344:0;clea
+: 1707154346:0;clear
+: 1707154349:0;exit
+: 1707158148:0;pwd
+: 1707158152:0;cd Desktop/dev
+: 1707158154:0;cd bundle
+: 1707158157:0;code .
+: 1707158189:0;ls -a
+: 1707241152:0;ls
+: 1707241156:0;cd ..
+: 1707241157:0;ls
+: 1707241165:0;cd jeff
+: 1707241166:0;ls
+: 1707241173:0;ls -a
+: 1707241473:0;clear
+: 1707241477:0;pwd
+: 1707241488:0;brew istall chezmoi
+: 1707241502:0;brew install chezmoi
+: 1707241538:0;chezmoi init
+: 1707241543:0;ls -
+: 1707241547:0;ls -a
+: 1707241569:0;chezmoi add ~/.npm
+: 1707241692:0;chezmoi add ~/.npm ~/.oh-my-zsh ~/.p10k.zsh ~/.pyenv ~/.python_history ~/.rubies ~/.vscode ~/.zprofile ~/.zsh_history ~/.szrc 
+: 1707241714:0;chezmoi add ~/.npm ~/.oh-my-zsh ~/.p10k.zsh ~/.pyenv ~/.python_history ~/.rubies ~/.vscode ~/.zprofile ~/.zsh_history ~/.zshrc 

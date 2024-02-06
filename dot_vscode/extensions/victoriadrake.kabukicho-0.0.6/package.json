@@ -1,0 +1,52 @@
+{
+	"name": "kabukicho",
+	"displayName": "Kabukichō",
+	"description": "Neon vaporwave dark theme with dreamy nostalgia and hints of hazy liquid synth.",
+	"version": "0.0.6",
+	"publisher": "victoriadrake",
+	"icon": "icon.png",
+	"license": "SEE LICENSE IN LICENSE",
+	"bugs": {
+		"url": "https://github.com/victoriadrake/kabukicho-vscode/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/victoriadrake/kabukicho-vscode"
+	},
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"keywords": [
+		"purple",
+		"neon",
+		"retro",
+		"vaporwave",
+		"dark theme"
+	],
+	"galleryBanner": {
+		"color": "#200933",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kabukichō",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kabukicho-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "cbfd02da-8b28-4483-9b04-52926eea3db1",
+		"publisherId": "b9824947-0402-442b-a6c8-de9996429d24",
+		"publisherDisplayName": "Victoria Drake",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1706992477482
+	}
+}
